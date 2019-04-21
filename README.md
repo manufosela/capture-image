@@ -4,6 +4,8 @@ Lit-Element web component to capture and save an image with camera
 
 ## Demo
 
+[capture-image codepen demo](https://codepen.io/manufosela/pen/VNdqoE)
+
 ```
 <h2>Basic capture-image Demo</h2>
 <h3>Demo</h3>

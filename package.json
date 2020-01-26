@@ -1,7 +1,7 @@
 {
   "name": "@manufosela/capture-image",
   "description": "Lit-Element webcomponent wc name",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "capture-image.js",
   "repository": {
     "type": "git",
